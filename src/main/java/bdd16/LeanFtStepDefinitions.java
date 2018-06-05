@@ -1,4 +1,4 @@
-package bdd16;
+package bdd16
 
 import java.io.IOException;
 import com.hp.lft.report.ReportException;
@@ -34,8 +34,8 @@ public class LeanFtStepDefinitions {
                 .type("text").build()).highlight();
         browser.describe(EditField.class, new EditFieldDescription.Builder()
                 .name("userName")
-                .tagName("INUT")
-                .type("text").build()).setValue("tutorial");
+                .tagName("INPUT")
+                .type("text").build()).setValue("tutslfjlsdjforial");
 
         browser.describe(EditField.class, new EditFieldDescription.Builder()
                 .name("password")
