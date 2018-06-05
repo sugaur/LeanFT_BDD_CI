@@ -32,10 +32,10 @@ public class LeanFtStepDefinitions {
                 .name("userName")
                 .tagName("INPUT")
                 .type("text").build()).highlight();
-        browser.describe(EditField.class, new EditFieldDescription.Builder()
+      /**  browser.describe(EditField.class, new EditFieldDescription.Builder()
                 .name("userName")
                 .tagName("INPUT")
-                .type("text").build()).setValue("tutslfjlsdjforial");
+                .type("text").build()).setValue("tutslfjlsdjforial");**/
 
         browser.describe(EditField.class, new EditFieldDescription.Builder()
                 .name("password")
