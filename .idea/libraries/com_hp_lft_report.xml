@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="com.hp.lft.report">
+    <CLASSES>
+      <root url="jar://C:/Program Files (x86)/HPE/Unified Functional Testing/SDK/Java/com.hp.lft.report.jar!/" />
+      <root url="jar://C:/Program Files (x86)/HPE/Unified Functional Testing/SDK/Java/com.hp.lft.verifications.jar!/" />
+      <root url="jar://C:/Program Files (x86)/HPE/Unified Functional Testing/SDK/Java/com.hp.lft.unittesting.jar!/" />
+      <root url="jar://C:/Program Files (x86)/HPE/Unified Functional Testing/SDK/Java/com.hp.lft.sdk-standalone.jar!/" />
+      <root url="file://C:/Program Files (x86)/HPE" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files (x86)/HPE/Unified Functional Testing/SDK/Java/com.hp.lft.sdk-standalone.jar!/" />
+      <root url="file://C:/Program Files (x86)/HPE/Unified Functional Testing/addins/ServiceTest/JavaCall/Java Interface/src" />
+    </SOURCES>
+  </library>
+</component>
