@@ -34,7 +34,7 @@ public class LeanFtStepDefinitions {
                 .type("text").build()).highlight();
         browser.describe(EditField.class, new EditFieldDescription.Builder()
                 .name("userName")
-                .tagName("INPUT")
+                .tagName("INUT")
                 .type("text").build()).setValue("tutorial");
 
         browser.describe(EditField.class, new EditFieldDescription.Builder()
